@@ -1,0 +1,21 @@
+{
+  "name": "27thjan",
+  "version": "1.0.0",
+  "description": "Just having fun while learning",
+  "main": "Saturday.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fileManip-exercise"
+  },
+  "author": "Rahul Koshti",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3",
+    "path": "^0.12.7"
+  }
+}
